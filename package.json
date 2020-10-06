@@ -1,0 +1,14 @@
+{
+  "name": "jsblockchain",
+  "version": "1.0.0",
+  "description": "Simple Blockchain demo using javascript",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "krishna",
+  "license": "ISC",
+  "dependencies": {
+    "crypto.js": "^2.0.2"
+  }
+}
